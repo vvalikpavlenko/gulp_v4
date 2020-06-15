@@ -1,6 +1,6 @@
 module.exports =()=>{
     $.gulp.task('stylus', ()=>{
-        return $.gulp.src('src/static/stylus/style.styl')
+        return $.gulp.src('src/static/stylus/*.styl')
             .pipe($.gp.sourcemaps.init())
             .pipe($.gp.stylus({
                 'include css': true
@@ -11,7 +11,7 @@ module.exports =()=>{
             }))
             .pipe($.gp.csso())
             .pipe($.gp.sourcemaps.write())
-            .pipe($.gulp.dest('build/static/css'))
+            .pipe($.gulp.dest('build/static/css/'))
             .pipe($.bs.reload({
                 stream: true,
             }));
