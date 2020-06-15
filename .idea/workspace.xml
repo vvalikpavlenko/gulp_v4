@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67e4e180-25e7-47a7-90bb-1a28060d6320" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c8aC0vFuGIbzojAFZX5tCybDAD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/css" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e4e180-25e7-47a7-90bb-1a28060d6320" name="Default Changelist" comment="" />
+      <created>1589912542924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589912542924</updated>
+      <workItem from="1589912545899" duration="6186000" />
+      <workItem from="1590001615373" duration="1420000" />
+      <workItem from="1590094938553" duration="1155000" />
+      <workItem from="1590227686914" duration="197000" />
+      <workItem from="1590401856857" duration="958000" />
+      <workItem from="1590511599822" duration="706000" />
+      <workItem from="1590695576050" duration="594000" />
+      <workItem from="1590747762218" duration="1028000" />
+      <workItem from="1590996158762" duration="1226000" />
+      <workItem from="1591364789536" duration="781000" />
+      <workItem from="1591442138081" duration="1289000" />
+      <workItem from="1591630885525" duration="179000" />
+      <workItem from="1592029506314" duration="12891000" />
+      <workItem from="1592218957884" duration="141000" />
+      <workItem from="1592220825447" duration="281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="325" key="EditFileWatcherDialog" timestamp="1592127894228">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="325" key="EditFileWatcherDialog/-1366.529.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1592127894228" />
+    <state x="624" y="325" key="EditFileWatcherDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592037710772" />
+    <state x="776" y="0" width="949" height="1080" key="dock-window-1" timestamp="1592134261414">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="776" y="0" width="949" height="1080" key="dock-window-1/-1366.552.1366.745/0.23.1920.1057@0.23.1920.1057" timestamp="1592134261414" />
+  </component>
+</project>
