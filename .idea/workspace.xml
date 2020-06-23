@@ -19,34 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67e4e180-25e7-47a7-90bb-1a28060d6320" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulp/tasks/img.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulp/tasks/svg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pug/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/img/Screenshot 2020-06-16 at 00.37.29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/stylus/bibl/lips.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/stylus/bibl/menu.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/stylus/bibl/slick.css" afterDir="false" />
+    <list default="true" id="67e4e180-25e7-47a7-90bb-1a28060d6320" name="Default Changelist" comment="finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/help.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/sumoselect.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/help.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/sumoselect.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulp/config/tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/config/tasks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulp/tasks/pug.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/pug.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulp/tasks/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulp/tasks/stylus.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/stylus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulp/tasks/watch.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/watch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pug/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/stylus/bibl/lips.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/stylus/bibl/lips.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/stylus/bibl/slick.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/static/stylus/style.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/stylus/style.styl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/static/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/static/stylus/bibl" />
     <property name="list.type.of.created.stylesheet" value="Stylus" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -94,10 +72,22 @@
       <recent name="$PROJECT_DIR$/src/static/stylus/bibl" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/static/img" />
       <recent name="$PROJECT_DIR$/src/static/stylus/bibl" />
+      <recent name="$PROJECT_DIR$/src/static/js" />
+      <recent name="$PROJECT_DIR$/build/static/js" />
+      <recent name="$PROJECT_DIR$/src/static/img" />
       <recent name="$PROJECT_DIR$/app/css" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gulp_v2/build/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -124,7 +114,11 @@
       <workItem from="1592029506314" duration="12891000" />
       <workItem from="1592218957884" duration="141000" />
       <workItem from="1592220825447" duration="2075000" />
-      <workItem from="1592253074590" duration="5276000" />
+      <workItem from="1592253074590" duration="6197000" />
+      <workItem from="1592311376870" duration="2256000" />
+      <workItem from="1592377616485" duration="1933000" />
+      <workItem from="1592462019855" duration="4787000" />
+      <workItem from="1592489406999" duration="699000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592221458814</created>
@@ -133,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592221458814</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish">
+      <created>1592259103108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592259103108</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finish">
+      <created>1592287230776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592287230776</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,29 +157,39 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="192" y="97" key="DiffContextDialog" timestamp="1592221556975">
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592489553681">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="192" y="97" key="DiffContextDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592221556975" />
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592489553681" />
+    <state x="192" y="97" width="1536" height="864" key="DiffContextDialog" timestamp="1592288092742">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="192" y="97" width="1536" height="864" key="DiffContextDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592288092742" />
     <state x="624" y="325" key="EditFileWatcherDialog" timestamp="1592127894228">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="624" y="325" key="EditFileWatcherDialog/-1366.529.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1592127894228" />
     <state x="624" y="325" key="EditFileWatcherDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592037710772" />
-    <state x="560" y="276" key="Vcs.Push.Dialog.v2" timestamp="1592221558640">
+    <state x="560" y="276" key="Vcs.Push.Dialog.v2" timestamp="1592287256127">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592221558640" />
+    <state x="560" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592287256127" />
     <state x="776" y="0" width="949" height="1080" key="dock-window-1" timestamp="1592134261414">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="776" y="0" width="949" height="1080" key="dock-window-1/-1366.552.1366.745/0.23.1920.1057@0.23.1920.1057" timestamp="1592134261414" />
+    <state x="667" y="279" width="586" height="586" key="find.popup" timestamp="1592311802203">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="279" width="586" height="586" key="find.popup/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592311802203" />
     <state x="797" y="389" key="git4idea.rebase.GitRebaseDialog" timestamp="1592221487044">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
