@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67e4e180-25e7-47a7-90bb-1a28060d6320" name="Default Changelist" comment="finish">
+    <list default="true" id="67e4e180-25e7-47a7-90bb-1a28060d6320" name="Default Changelist" comment="23.06.2020">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulp/tasks/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/static/stylus/bibl/lips.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/stylus/bibl/lips.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/stylus/bibl/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/stylus/style.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/stylus/style.styl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,15 +64,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/static/stylus/bibl" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/static/stylus/bibl" />
       <recent name="$PROJECT_DIR$/src/static/js" />
       <recent name="$PROJECT_DIR$/build/static/js" />
       <recent name="$PROJECT_DIR$/src/static/img" />
       <recent name="$PROJECT_DIR$/app/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/static/stylus/bibl" />
     </key>
   </component>
   <component name="RunManager">
@@ -119,6 +115,9 @@
       <workItem from="1592377616485" duration="1933000" />
       <workItem from="1592462019855" duration="4787000" />
       <workItem from="1592489406999" duration="699000" />
+      <workItem from="1592892203746" duration="1103000" />
+      <workItem from="1592914012956" duration="16000" />
+      <workItem from="1592917813597" duration="2189000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592221458814</created>
@@ -141,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592287230776</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="23.06.2020">
+      <created>1592892389512</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592892389513</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,13 +168,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish" />
+    <MESSAGE value="23.06.2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.06.2020" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592489553681">
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592922104074">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592489553681" />
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592922104074" />
     <state x="192" y="97" width="1536" height="864" key="DiffContextDialog" timestamp="1592288092742">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -178,10 +185,10 @@
     </state>
     <state x="624" y="325" key="EditFileWatcherDialog/-1366.529.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1592127894228" />
     <state x="624" y="325" key="EditFileWatcherDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592037710772" />
-    <state x="560" y="276" key="Vcs.Push.Dialog.v2" timestamp="1592287256127">
+    <state x="560" y="276" key="Vcs.Push.Dialog.v2" timestamp="1592892395785">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592287256127" />
+    <state x="560" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592892395785" />
     <state x="776" y="0" width="949" height="1080" key="dock-window-1" timestamp="1592134261414">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -198,5 +205,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="782" y="435" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592221528827" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1592892290076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592892290076" />
   </component>
 </project>
