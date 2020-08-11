@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67e4e180-25e7-47a7-90bb-1a28060d6320" name="Default Changelist" comment="23.06.2020">
+    <list default="true" id="67e4e180-25e7-47a7-90bb-1a28060d6320" name="Default Changelist" comment="+ video font">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/tasks/stylus.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/stylus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/pages/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/static/stylus/bibl/lips.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/stylus/bibl/lips.styl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/static/stylus/bibl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Stylus" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -64,15 +66,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/static/stylus/bibl" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/static/stylus/bibl" />
       <recent name="$PROJECT_DIR$/src/static/js" />
       <recent name="$PROJECT_DIR$/build/static/js" />
       <recent name="$PROJECT_DIR$/src/static/img" />
-      <recent name="$PROJECT_DIR$/app/css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/static/stylus/bibl" />
     </key>
   </component>
   <component name="RunManager">
@@ -85,6 +87,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -118,6 +121,11 @@
       <workItem from="1592892203746" duration="1103000" />
       <workItem from="1592914012956" duration="16000" />
       <workItem from="1592917813597" duration="2189000" />
+      <workItem from="1593618643090" duration="501000" />
+      <workItem from="1594044536675" duration="287000" />
+      <workItem from="1594136865531" duration="1506000" />
+      <workItem from="1594798620077" duration="1745000" />
+      <workItem from="1597130387454" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592221458814</created>
@@ -147,11 +155,18 @@
       <option name="project" value="LOCAL" />
       <updated>1592892389513</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+ video font">
+      <created>1593618841363</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593618841363</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -169,7 +184,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="finish" />
     <MESSAGE value="23.06.2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.06.2020" />
+    <MESSAGE value="+ video font" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ video font" />
   </component>
   <component name="WindowStateProjectService">
     <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592922104074">
@@ -185,9 +201,10 @@
     </state>
     <state x="624" y="325" key="EditFileWatcherDialog/-1366.529.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1592127894228" />
     <state x="624" y="325" key="EditFileWatcherDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592037710772" />
-    <state x="560" y="276" key="Vcs.Push.Dialog.v2" timestamp="1592892395785">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="398" y="196" key="Vcs.Push.Dialog.v2" timestamp="1593618845355">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="398" y="196" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1593618845355" />
     <state x="560" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592892395785" />
     <state x="776" y="0" width="949" height="1080" key="dock-window-1" timestamp="1592134261414">
       <screen x="0" y="23" width="1920" height="1057" />
