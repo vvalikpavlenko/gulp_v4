@@ -20,10 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67e4e180-25e7-47a7-90bb-1a28060d6320" name="Default Changelist" comment="+ video font">
+      <change afterPath="$PROJECT_DIR$/gulp/tasks/sass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/block/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/html/block/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/sass/block/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/sass/elements/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/sass/pages/_home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/sass/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulp/tasks/stylus.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/stylus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pug/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/pages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/stylus/bibl/lips.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/stylus/bibl/lips.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/config/tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/config/tasks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/tasks/pug.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulp/tasks/watch.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulp/tasks/watch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +44,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Sass File" />
         <option value="Stylus File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="Sass File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1c8aC0vFuGIbzojAFZX5tCybDAD" />
@@ -55,8 +71,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="Stylus" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/html" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,25 +81,59 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/static/stylus/bibl" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/html" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/static/stylus/bibl" />
       <recent name="$PROJECT_DIR$/src/static/js" />
       <recent name="$PROJECT_DIR$/build/static/js" />
-      <recent name="$PROJECT_DIR$/src/static/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/static/stylus/bibl" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gulp_v2/build/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="sass" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>sass</task>
+      </tasks>
+      <arguments />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gulp.js.default" />
+        <item itemvalue="Gulp.js.sass" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -126,6 +177,7 @@
       <workItem from="1594136865531" duration="1506000" />
       <workItem from="1594798620077" duration="1745000" />
       <workItem from="1597130387454" duration="164000" />
+      <workItem from="1620510997439" duration="3318000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592221458814</created>
@@ -186,45 +238,5 @@
     <MESSAGE value="23.06.2020" />
     <MESSAGE value="+ video font" />
     <option name="LAST_COMMIT_MESSAGE" value="+ video font" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592922104074">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592922104074" />
-    <state x="192" y="97" width="1536" height="864" key="DiffContextDialog" timestamp="1592288092742">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="192" y="97" width="1536" height="864" key="DiffContextDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592288092742" />
-    <state x="624" y="325" key="EditFileWatcherDialog" timestamp="1592127894228">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="624" y="325" key="EditFileWatcherDialog/-1366.529.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1592127894228" />
-    <state x="624" y="325" key="EditFileWatcherDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592037710772" />
-    <state x="398" y="196" key="Vcs.Push.Dialog.v2" timestamp="1593618845355">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="398" y="196" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1593618845355" />
-    <state x="560" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592892395785" />
-    <state x="776" y="0" width="949" height="1080" key="dock-window-1" timestamp="1592134261414">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="776" y="0" width="949" height="1080" key="dock-window-1/-1366.552.1366.745/0.23.1920.1057@0.23.1920.1057" timestamp="1592134261414" />
-    <state x="667" y="279" width="586" height="586" key="find.popup" timestamp="1592311802203">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="667" y="279" width="586" height="586" key="find.popup/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592311802203" />
-    <state x="797" y="389" key="git4idea.rebase.GitRebaseDialog" timestamp="1592221487044">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="797" y="389" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592221487044" />
-    <state x="782" y="435" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1592221528827">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="782" y="435" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592221528827" />
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1592892290076">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/267.1080.1366.768@0.0.1920.1080" timestamp="1592892290076" />
   </component>
 </project>
